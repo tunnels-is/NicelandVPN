@@ -1,0 +1,6 @@
+windows:amd64:cli:v2.2.0:464de779b765d84f40a0c6752fa24cb6
+windows:amd64:gui:v2.2.0:4184ba5756296a9d7dc8c5e23da7126f
+linux:amd64:cli:v2.2.0:cad2af0218d5bea66c0d555f2a55a07b
+linux:amd64:gui:v2.2.0:bb517568dd218f28368e2b8578b76ebf
+macos:amd64:cli:v2.2.0:ccb5bb48e5117f7470f523ced3e29b16
+macos:amd64:gui:v2.2.0:f97dd58ebd364411a670ef9bacb83c2b
